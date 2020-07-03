@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "login": "tomek",
+        "mail": "tomasz@kowal.pl",
+        "password": "ttt",
+        "imie": "Tomasz",
+        "nazwisko": "Kowal"
+    },
+    {
+        "id": 2,
+        "login": "aga",
+        "mail": "agnieszka@kowalska.pl",
+        "password": "aaa",
+        "imie": "Agnieszka",
+        "nazwisko": "Kowalska"
+    }
+]

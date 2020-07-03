@@ -1,0 +1,47 @@
+[
+    {
+        "nazwa": "Katowice (Polska)",
+        "standardKoszt": "300",
+        "samolot": "Boeing737"
+    },
+    {
+        "nazwa": "Wrocław (Polska)",
+        "standardKoszt": "350",
+        "samolot": "Boeing737"
+    },
+    {
+        "nazwa": "Gdańsk (Polska)",
+        "standardKoszt": "250",
+        "samolot": "Boeing737"
+    },
+    {
+        "nazwa": "Frankfurt (Niemcy)",
+        "standardKoszt": "600",
+        "samolot": "Dreamliner"
+    },
+    {
+        "nazwa": "Kopenhaga (Dania)",
+        "standardKoszt": "700",
+        "samolot": "Dreamliner"
+    },
+    {
+        "nazwa": "Madryt (Hiszpania)",
+        "standardKoszt": "1000",
+        "samolot": "Dreamliner"
+    },
+    {
+        "nazwa": "Nowy Jork (USA)",
+        "standardKoszt": "3000",
+        "samolot": "Embraer"
+    },
+    {
+        "nazwa": "Pekin (Chiny)",
+        "standardKoszt": "4000",
+        "samolot": "Embraer"
+    },
+    {
+        "nazwa": "Buenos Aires (Brazylia)",
+        "standardKoszt": "3500",
+        "samolot": "Embraer"
+    }
+]
