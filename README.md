@@ -10,14 +10,14 @@ The site doesn't offer flight booking with any company. The data is random and c
 
 ## UI
 <p align="center">
-<img src="https://github.com/agzamow/airplanebooking/docs/index_screenshot.PNG/" width="640"/>
+<img src="https://github.com/agzamow/airplanebooking/blob/master/docs/index_screenshot.PNG/" width="640"/>
 </p>
 <p align = "center">
-  <img src="https://github.com/agzamow/airplanebooking/docs/booking_1.PNG/" width="500"/>
-<img src="https://github.com/agzamow/airplanebooking/docs/booking_2_1.PNG/" width="500"/>
-<img src="https://github.com/agzamow/airplanebooking/docs/booking_2_2.PNG/" width="500"/>
-<img src="https://github.com/agzamow/airplanebooking/docs/booking_3.PNG/" width="500"/>
-<img src="https://github.com/agzamow/airplanebooking/docs/booking_4.PNG/" width="500"/>
+  <img src="https://github.com/agzamow/airplanebooking/blob/master/docs/booking_1.PNG/" width="500"/>
+<img src="https://github.com/agzamow/airplanebooking/blob/master/docs/booking_2_1.PNG/" width="500"/>
+<img src="https://github.com/agzamow/airplanebooking/blob/master/docs/booking_2_2.PNG/" width="500"/>
+<img src="https://github.com/agzamow/airplanebooking/blob/master/docs/booking_3.PNG/" width="500"/>
+<img src="https://github.com/agzamow/airplanebooking/blob/master/docs/booking_4.PNG/" width="500"/>
 </p>
 
 ## Features
